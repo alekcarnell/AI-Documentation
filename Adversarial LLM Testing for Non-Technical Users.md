@@ -27,8 +27,6 @@ In all of these cases, we are going after the **safety controls** of the model w
 
 Performing a Prompt-Injection attack is as straightforward as pulling up the application that is serving the model, (like www.chatgpt.com for example) and beginning to interact with the AI via the chat-box. No fancy terminal or hacker tools are needed. 
 
-![[Pasted image 20260104163444.png]]
-
 Here is an example of a Prompt-Injection based on using manipulative language techniques.
 
 > [!example] Manipulative Language Technique Example
