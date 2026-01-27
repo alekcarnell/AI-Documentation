@@ -1,8 +1,3 @@
-
-**Alek Carnell**
-[Website](https://alekcarnell.github.io/), [LinkedIn](https://www.linkedin.com/in/alek-carnell-bb21b2348/) 
-Publish Date: 01-26-2026
-
 ## **Introduction and Purpose**
 
 The purpose of this guide is to help the reader understand Jail-Breaking and Prompt-Injection of Large Language Models (LLMs) and execute tests on their own. Because both the technical and non-technical user can interact with LLM's, there is an opportunity to expand the head-count that is actively pen-testing and reporting on these vulnerabilities. This will ultimately make LLM's safer through those contributions. This version is tailored to a general audience but you could modify it to address the teams in your organization and mobilize them to test your internal models. 
