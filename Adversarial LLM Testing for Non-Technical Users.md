@@ -1,8 +1,4 @@
----
-collection: notes
-date: 2026-01-26
-tags: []
----
+
 **Alek Carnell**
 [Website](https://alekcarnell.github.io/), [LinkedIn](https://www.linkedin.com/in/alek-carnell-bb21b2348/) 
 Publish Date: 01-26-2026
